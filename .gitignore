@@ -1,0 +1,4 @@
+# Ignored Files
+.DS_Store
+.tmp
+.log
