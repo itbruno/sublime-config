@@ -18,8 +18,7 @@
 {
 	"auto_complete": false,
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	"font_face": "monaco",
-	"font_size": 12,
+	"font_size": 10,
 	"theme": "Spacegray.sublime-theme"
 }
 ```
