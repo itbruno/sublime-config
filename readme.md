@@ -12,6 +12,7 @@
  - Less
  - Theme - Spacegray
  - ColorPicker
+ - BracketHighlight
 
 ## Preferences
 ```json
