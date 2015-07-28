@@ -1,4 +1,4 @@
-# Sublime Configurations
+# Sublime Configurations (ST 3)
 
 ## Packages ([Package Control](https://packagecontrol.io))
  - Git
@@ -10,7 +10,7 @@
  - SnippetMaker
  - Sass
  - Less
- - Theme - Spacegray
+ - Theme - Material Theme
  - ColorPicker
  - BracketHighlight
 
@@ -18,12 +18,29 @@
 ```json
 {
 	"auto_complete": false,
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"theme": "Material-Theme.sublime-theme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"font_face": "monaco",
-	"font_size": 12,
-	"rulers": [100],
-	"theme": "Spacegray.sublime-theme"
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"overlay_scroll_bars": "enabled",
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	]
 }
+
 ```
 
 ## Extra
