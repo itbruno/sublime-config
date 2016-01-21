@@ -22,6 +22,8 @@
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"font_face": "Monaco",
 	"font_size": 12.0,
+	"material_theme_accent_yellow": true,
+	"material_theme_contrast_mode": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -34,6 +36,7 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": false,
 	"overlay_scroll_bars": "enabled",
+	"indent_guide_options": [ "draw_normal", "draw_active" ],
 	"rulers":
 	[
 		120
