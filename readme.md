@@ -13,6 +13,7 @@
  - Theme - Material Theme
  - ColorPicker
  - BracketHighlight
+ - Git Conflict Resolver
 
 ## Preferences
 ```json
@@ -42,10 +43,7 @@
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": false,
 	"overlay_scroll_bars": "enabled",
-	"rulers":
-	[
-		80
-	]
+	"rulers":[80]
 }
 ```
 
